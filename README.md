@@ -1,4 +1,4 @@
-# Test Kafka Application
+# Test Kafka Application (for complete dummies ;-))
 
 1. Download Kafka and Zookeeper images from Docker Hub (version 7.3.13) using your Docker Desktop:
 ![Снимок экрана 2025-07-29 в 14 36 49](https://github.com/user-attachments/assets/47b0648b-c684-4af1-96c2-94708e03f0ad)
