@@ -5,7 +5,7 @@
 
 2. Run Kafka and Zookeeper images from Docker:
 
-    `docker-compose up -d`
+        `docker-compose up -d`
 ![6E2878B3-4DEC-4D3B-9987-64ED4B9E7E9D_1_201_a](https://github.com/user-attachments/assets/2c3786c3-6d56-44d3-8f7f-0991c4806f92)
 
 3. Run TestKafkaApplication
