@@ -16,6 +16,7 @@
 4. Send message:
 
 `curl -X POST -H "Content-Type: text/plain" -d "Hello Kafka" http://localhost:8080/send`
+![7928D3AF-29EB-472C-8F92-639BA6515CB1_1_201_a](https://github.com/user-attachments/assets/5e552464-94fc-4108-bf8d-c814b66a6ccc)
 
 5. See list of topics:
 
