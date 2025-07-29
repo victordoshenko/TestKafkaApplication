@@ -25,7 +25,5 @@
 
 6. See list of messages for chosen topic:
 
-`docker exec -it kafka kafka-console-consumer \
-   --bootstrap-server localhost:9092 \
-   --topic test-topic \
-   --from-beginning`
+`docker exec -it kafka kafka-console-consumer --bootstrap-server localhost:9092 --topic test-topic --from-beginning`
+![0CF3A664-28AD-41F4-8B66-85AA337A5546_1_201_a](https://github.com/user-attachments/assets/6f635a7d-dfbc-4d34-bfec-cfc3ba33474c)
