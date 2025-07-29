@@ -11,6 +11,7 @@
 3. Run TestKafkaApplication
 
 `Press green triangle in your IDE ;-)`
+![95CC4784-A66E-4B5A-BEAD-53B612B560DE_1_201_a](https://github.com/user-attachments/assets/251fc375-4c0c-4c60-b53a-b38623c03162)
 
 4. Send message:
 
